@@ -71,10 +71,8 @@
 																							
 ![image](https://github.com/user-attachments/assets/381390c7-dbe3-4baa-bed9-669ef78b21d3)
 #IMDb Project Introduction:
-
-
  
-    A comprehensive data analysis and visualization project to explore movie/TV show data from IMDb.
+  A comprehensive data analysis and visualization project to explore movie/TV show data from IMDb.
     A project to collect, analyze, and visualize movie/TV show data from IMDb,
     providing insights into user ratings,  genres, and more.
      The primary goal of this project is to analyze and visualize movie/TV show data from IMDb, 
@@ -87,6 +85,8 @@
          - Identification of patterns and correlations in movie/TV show data .
 
 #This project involves the following steps:
+
+
  Step 1: Data Collection*
     - Collected movie/TV show data from IMDb using web scraping techniques.
      - Extracted data on movie/TV show titles, genres, ratings, and release years.
