@@ -1,7 +1,6 @@
 # IMDb_Movie_Dataabse_DashboaDb				
- ![image](https://github.com/user-attachments/assets/3c2962e8-e1a4-4b41-80dc-dfb2edee9a85)
-
- 																							
+ ![image](https://github.com/user-attachments/assets/135adf10-3d17-47b0-ace2-2722acdb7476)
+  																							
 						IMDb Movie Dashboard																	
 																							
 																							
@@ -70,7 +69,7 @@
 																							
 																							
 																							
-																							
-![image](https://github.com/user-attachments/assets/5a14fb82-95e1-4fda-8d39-d64fb3bec78c)
+![image](https://github.com/user-attachments/assets/381390c7-dbe3-4baa-bed9-669ef78b21d3)
+
 
 
