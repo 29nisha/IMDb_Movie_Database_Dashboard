@@ -89,16 +89,20 @@
 
  Step 1: Data Collection*
     - Collected movie/TV show data from IMDb using web scraping techniques.
-     - Extracted data on movie/TV show titles, genres, ratings, and release years.
+     - Extracted data on movie/TV show titles, genres, ratings, and release years.  
+     
  Step 2: DataCleaning*
     - Cleaned and preprocessed data using Excel formulas and functions.
     - Removed duplicates, handled missing values, and formatted data for analysis.
+    
 Step 3: Data Analysis*
     - Analyzed movie/TV show data using Excel formulas and functions.
      - Calculated summary statistics, created charts and graphs, and identified trends and patterns.
+     
 Step 4: Data Visualization*
      - Created interactive dashboards using Excel to visualize movie/TV show data.
      - Used charts, graphs, and tables to display trends, patterns, and insights.
+     
 Step 5: Insights and Recommendations*
     - Derived insights from data analysis and visualization.
     - Provided recommendations for the entertainment industry based on findings.
