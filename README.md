@@ -1,6 +1,6 @@
 # IMDb_Movie_Dataabse_DashboaDb				
-![image](https://github.com/user-attachments/assets/a28f5f0b-291e-4c44-9f87-f3b461ad4ba4)
-																							
+ ![image](https://github.com/user-attachments/assets/4b7600ba-8f15-4a3e-91ff-7eb7e9036015)
+ 																							
 						IMDb Movie Dashboard																	
 																							
 																							
@@ -70,79 +70,6 @@
 																							
 																							
 																							
-																							
-																							
-						IMDb Movie Dashboard																	
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-
-                       
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-																							
-![image](https://github.com/user-attachments/assets/ebc5947d-078c-4bce-9b9f-76e17823e014)
+![image](https://github.com/user-attachments/assets/5a14fb82-95e1-4fda-8d39-d64fb3bec78c)
 
 
