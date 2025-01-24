@@ -70,6 +70,81 @@
 																							
 																							
 ![image](https://github.com/user-attachments/assets/381390c7-dbe3-4baa-bed9-669ef78b21d3)
+#IMDb Project Introduction
+ .Description:
+    																							
+						IMDb Movie Dashboard																	
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+																							
+![image](https://github.com/user-attachments/assets/8cffbc8b-3fb5-4960-b1d8-2c6b2ca2d682)
+
+   
+
 
 
 
