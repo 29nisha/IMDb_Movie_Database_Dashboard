@@ -70,7 +70,9 @@
 																							
 																							
 ![image](https://github.com/user-attachments/assets/381390c7-dbe3-4baa-bed9-669ef78b21d3)
-#IMDb Project Introduction:
+
+
+# IMDb Project Description;
  
   A comprehensive data analysis and visualization project to explore movie/TV show data from IMDb.
     A project to collect, analyze, and visualize movie/TV show data from IMDb,
@@ -84,7 +86,7 @@
          - Better understanding of user preferences and trends.
          - Identification of patterns and correlations in movie/TV show data .
 
-#This project involves the following steps:
+# This project involves the following steps:
 
 
  Step 1: Data Collection*
@@ -109,6 +111,28 @@ Step 4: Data Visualization*
 Step 5: Insights and Recommendations*
     1- Derived insights from data analysis and visualization.
     2- Provided recommendations for the entertainment industry based on findings.
+
+# Project Insights Questions with answer: 
+
+1. How many japanese movies in the database were produced in English?
+
+
+
+   Country	Japan
+   Language	English
+	
+Title	
+One Missed Call	
+Street Fighter	
+The Quick and the Dead	
+Tora! Tora! Tora!	
+Trainwreck	
+Grand Total	
+![image](https://github.com/user-attachments/assets/640bf3b5-2a9e-4d09-8522-c27570741b1d)
+
+   
+
+
 
    
 
