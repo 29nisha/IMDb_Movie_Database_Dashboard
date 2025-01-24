@@ -1,5 +1,6 @@
 # IMDb_Movie_Dataabse_DashboaDb				
- ![image](https://github.com/user-attachments/assets/4b7600ba-8f15-4a3e-91ff-7eb7e9036015)
+ ![image](https://github.com/user-attachments/assets/3c2962e8-e1a4-4b41-80dc-dfb2edee9a85)
+
  																							
 						IMDb Movie Dashboard																	
 																							
