@@ -121,7 +121,8 @@ Step 5: Insights and Recommendations*
 
 2. How much gross revenue did "The Celebration" generate?
 
-![image](https://github.com/user-attachments/assets/c31962ef-0e81-4197-8564-b7d0c73e65af)
+  ![image](https://github.com/user-attachments/assets/c31962ef-0e81-4197-8564-b7d0c73e65af)
+
 
 
    
