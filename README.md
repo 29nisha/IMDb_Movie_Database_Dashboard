@@ -95,18 +95,15 @@
      
  Step 2: DataCleaning*
     - Cleaned and preprocessed data using Excel formulas and functions.
-    
     - Removed duplicates, handled missing values, and formatted data for analysis.
     
     
 Step 3: Data Analysis*
     - Analyzed movie/TV show data using Excel formulas and functions.
-    
-     - Calculated summary statistics, created charts and graphs, and identified trends and patterns.
+    - Calculated summary statistics, created charts and graphs, and identified trends and patterns.
      
 Step 4: Data Visualization*
      - Created interactive dashboards using Excel to visualize movie/TV show data.
-     
      - Used charts, graphs, and tables to display trends, patterns, and insights.
      
      
