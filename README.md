@@ -154,8 +154,8 @@ Step 5: Insights and Recommendations*
 
 # Conclusion
 
-    1. Data Analysis Insights: The analysis of IMDb data provided valuable insights into movie 
-       and TV show ratings, genres, and release years, enabling a better understanding of user preferences and trends.
+  1. Data Analysis Insights: The analysis of IMDb data provided valuable insights into movie and
+       TV show ratings, genres, and release years, enabling a better understanding of user preferences and trends.
 
    2. Data Visualization Benefits: The use of Excel charts and graphs facilitated effective data visualization,
       making it easier to identify patterns and correlations in the data, and enabling informed decisions in the entertainment industry.
