@@ -1,4 +1,6 @@
-# IMDb_Movie_Database_Dashboard			
+# IMDb_Movie_Database_Dashboard	
+  The IMDb Data Analysis Project involves a comprehensive study of the IMDb dataset 
+  to extract meaningful insights about movies, genres,IMDB score and ratings.
  ![image](https://github.com/user-attachments/assets/135adf10-3d17-47b0-ace2-2722acdb7476)
   																							
 						IMDb Movie Dashboard																	
